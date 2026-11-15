@@ -2,6 +2,10 @@
 
 > Fase 4 — FIAP SOAT · Arquitetura de Microsserviços com Saga Pattern
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=TechChallenge01_TechChallenge.Execucao&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=TechChallenge01_TechChallenge.Execucao)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=TechChallenge01_TechChallenge.Execucao&metric=coverage)](https://sonarcloud.io/summary/new_code?id=TechChallenge01_TechChallenge.Execucao)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=TechChallenge01_TechChallenge.Execucao&metric=bugs)](https://sonarcloud.io/summary/new_code?id=TechChallenge01_TechChallenge.Execucao)
+
 Microsserviço responsável pelo **gerenciamento da fila de execução dos reparos**, criando tarefas de execução quando uma OS é aberta, iniciando o reparo após confirmação do pagamento e comunicando a finalização ao OS Service.
 
 ---
